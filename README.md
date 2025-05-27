@@ -3,7 +3,7 @@ Thực tập cơ sở thầy Nguyễn Tất Thắng
 
 ****ĐỀ TÀI: SỬ DỤNG MÔ HÌNH CNN VÀO VIỆC PHÂN LOẠI CHÓ, MÈO****
 
-**Công nghệ chính: **
+**Công nghệ chính:**
 1. Mô hình CNN
 2. Tensorflow
 3. Python
